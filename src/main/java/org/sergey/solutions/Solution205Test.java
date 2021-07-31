@@ -20,5 +20,6 @@ class Solution205Test {
         assertTrue(tested.isIsomorphic("paper","title"));
         assertFalse(tested.isIsomorphic("foo","bar"));
         assertFalse(tested.isIsomorphic("badc","baba"));
+        assertFalse(tested.isIsomorphic("bbbaaaba","aaabbbba"));
     }
 }
