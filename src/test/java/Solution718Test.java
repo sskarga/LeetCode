@@ -1,7 +1,6 @@
-package org.sergey.solutions;
-
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
+import org.sergey.solutions.Solution718;
 
 import static org.junit.jupiter.api.Assertions.*;
 

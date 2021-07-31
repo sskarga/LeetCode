@@ -1,8 +1,9 @@
-package org.sergey.solutions;
-
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
+import org.sergey.solutions.ListNode;
+import org.sergey.solutions.ListNodeUntil;
+import org.sergey.solutions.Solution2;
 
 import java.util.Arrays;
 import java.util.LinkedList;
