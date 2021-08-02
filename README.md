@@ -17,6 +17,7 @@ LeetCode
 |21| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | java | Easy |
 |26| [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | java | Easy |
 |27| [Remove Element](https://leetcode.com/problems/remove-element) | java | Easy |
+|42| [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | java | Hard |
 |89| [Gray Code](https://leetcode.com/problems/gray-code) | java | Medium |
 |205| [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) | java | Easy |
 |378| [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix) | java | Medium |
